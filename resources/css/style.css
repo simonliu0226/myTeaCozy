@@ -1,0 +1,149 @@
+* {
+    font-family: Helvetica;
+    font-size: 22px;
+    color: seashell;
+    background-color: black;
+    text-align: center;
+}
+
+header {
+    position: fixed;
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    align-items: center;
+    top: 0px;
+    z-index: 10;
+}
+
+li {
+    display: inline;
+    position: relative;
+    right: 15px;
+    margin: 0px 10px;
+}
+
+main {
+    position: relative;
+    top: 69px;
+}
+
+h2 {
+    font-size: 33px;
+    margin: 15px auto;
+}
+
+h4 {
+    margin: 10px auto;
+}
+
+h5 {
+    font-size: 18px;
+    margin: 50px;
+}
+
+footer {
+    position: relative;
+    top: 69px;
+    margin-top: 75px;
+    margin-left: 20px;
+    margin-bottom: 100px;
+    text-align: left;
+}
+
+footer h5 {
+    text-align: left;
+    margin: 0px;
+    margin-bottom: 50px;
+}
+
+.mission {
+    height: 700px;
+    width: 1200px;
+    background-image: url("../images/img-mission-background.jpg");
+    margin: 0px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.mission-head {
+    width: 100%;
+}
+
+.tea-img {
+    height: 200px;
+    width: 300px;
+}
+
+.location {
+    opacity: 1;
+}
+
+.logo {
+    position: absolute;
+    height: 50px;
+    left: 10px;
+}
+
+.featured {
+    width: 1000px;
+    margin: 100px auto;
+}
+
+.featured-head {
+    margin: 20px;
+}
+
+.tea-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.tea {
+    margin: 10px 16px;
+}
+
+.locations {
+    background-image: url("../images/img-locations-background.jpg");
+    height: 570px;
+    width: 1200px;
+    margin: 0px auto;
+    display: flex;
+    align-items: center;
+}
+
+.locations, .locations-head, .locations-head h2 {
+    background-color: transparent;
+}
+
+.locations-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+    margin: 15px auto;
+}
+
+.location-info {
+    background-color: transparent;
+    position: relative;
+    margin: auto auto;
+    bottom: 20px;
+}
+
+.locations-container, .locations-head {
+    position: relative;
+    top: 
+}
+
+.location {
+    width: 300px;
+    margin: auto 20px;
+    line-height: 2;
+}
+
+
+
+
